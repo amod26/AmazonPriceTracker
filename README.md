@@ -10,7 +10,10 @@
 3. In server.login, Add your gmail id and the 16 digit password 
 4. In server.sendmail, add the to and fro email id's
 5. Save the file
-6. In terminal, python Price Tracker.py 
+6. In terminal run, 
+    -  pip install -r Requirements.py
+    -  python Price Tracker.py 
 
-# Script
+# Scripts
 - Price Tracker.py
+- Requirements.txt
