@@ -11,9 +11,9 @@
 4. In server.sendmail, add the to and fro email id's
 5. Save the file
 6. In terminal run, 
-    -  pip install -r Requirements.py
+    -  pip install -r requirements.py
     -  python Price Tracker.py 
 
 # Scripts
 - Price Tracker.py
-- Requirements.txt
+- requirements.txt
