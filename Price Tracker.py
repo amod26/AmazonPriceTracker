@@ -69,7 +69,7 @@ def check_price():
 def send_mail():
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
-    server.starttls  # encrypt the connection
+    server.starttls  # encrypts the connection
     server.ehlo()
 
     # login in to the gmail server using our credentials
@@ -88,7 +88,7 @@ def send_mail():
 
 print('Go check your email! Now Fool!')
 
-
+# Keeping the loop on
 while(True):
     check_price()
     time.sleep(60 * 60)
