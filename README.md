@@ -14,6 +14,6 @@
     -  pip install -r requirements.py
     -  python Price Tracker.py 
 
-# Scripts
+## Scripts
 - Price Tracker.py
 - requirements.txt
