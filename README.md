@@ -1,6 +1,6 @@
 # Amazon Price Tracker
 
-- This script will let you track price for the specified product. 
+- This script will let you track price for the specified product. You'll get immediate track of price once it changes for your favourite item on Amazon which you were longing to buy from a long time.
 
 
 
